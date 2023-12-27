@@ -134,7 +134,7 @@ li.active a{ text-decoration:underline; font-weight: bold;}
 /*-------------------------------------------------
 FOOTER CLASSES
 -------------------------------------------------*/
-.footer-wrap{ background: url(../images/blackBackground.jpg); margin-top:35px; overflow:hidden;}
+.footer-wrap{ background:#000 url(../images/blackBackground.jpg); margin-top:35px; overflow:hidden;}
 .footer-wrap .wrap{ width:960px; margin:0 auto;background:url(../images/footerbg-light.png) no-repeat center; height: 65px; overflow:hidden;}
 .footer-wrap .wrap .panel{width:300px; float:left;}
 .footer-wrap .wrap .panel .title{ color:#DDD0C8; padding-bottom:30px;}
@@ -142,7 +142,7 @@ FOOTER CLASSES
 .footer-wrap .wrap .panel .content span{ color:#da2600;}
 .footer-wrap .wrap .panel .content span a{ color:#da2600; text-decoration:underline; display:block; padding-top:20px;}
 .footer-wrap .wrap .panel .content span a:hover{ color:#ffed71; text-decoration:none;}
-.footer-wrap-bottom{ background: url(../images/blackBackground.jpg); margin-top:35px; overflow:hidden; position:absolute; bottom: -115px; z-index: 10;height: 72px; width: 100%;}
+.footer-wrap-bottom{ background:#000 url(../images/blackBackground.jpg); margin-top:35px; overflow:hidden; position:absolute; bottom: -115px; z-index: 10;height: 72px; width: 100%;}
 
 
 .footer-wrap .wrap .panel .content ul{ padding-bottom:30px; overflow:hidden;}
